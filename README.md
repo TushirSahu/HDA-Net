@@ -1,5 +1,7 @@
 # CABNet
 
+![diagnostics-13-01664-g010](https://github.com/TushirSahu/CABNet/assets/96677478/106bd7c6-ea87-4a67-8557-e2e6f513761b)
+
 ## Overview
 This repository contains code for detecting and classifying diabetic retinopathy using attention modules. Diabetic retinopathy is a severe eye disease that affects individuals with diabetes, causing damage to the retina and potentially leading to vision loss. The attention modules help in highlighting important regions in retinal images, aiding in accurate detection and classification of diabetic retinopathy.
 
