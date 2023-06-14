@@ -9,5 +9,7 @@ This repository contains code for detecting and classifying diabetic retinopathy
 ### Diabetic retinopathy detection
 The attention modules analyze retinal images to identify signs of diabetic retinopathy.
 Attention mechanism: The code implements attention modules that focus on relevant regions in the retinal images for improved detection accuracy.
-Classification: The system classifies the severity of diabetic retinopathy into different stages, aiding in appropriate medical intervention.
-Easy integration: The code can be easily integrated into existing healthcare systems or used as a standalone application for diabetic retinopathy detection.
+### Classification
+The system classifies the severity of diabetic retinopathy into different stages, aiding in appropriate medical intervention.
+### Easy integration
+The code can be easily integrated into existing healthcare systems or used as a standalone application for diabetic retinopathy detection.
