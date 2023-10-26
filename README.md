@@ -8,7 +8,7 @@ This repository contains the code for a novel architecture HDA-Net for detecting
 <!-- This README provides an overview of the project, installation instructions, usage guidelines, and other relevant information. -->
 ## Architecture
 ![Untitled Diagram-Page-1 drawio](https://github.com/TushirSahu/CABNet/assets/96677478/8158708b-b963-495d-b421-19dde99f2ad0)
-Taking insipration from Hierarchical modules in NLP we used this in Computer Vision tasks in medical imaging.
+HDA-Net draws inspiration from hierarchical modules in Natural Language Processing (NLP) and adapts them for Computer Vision tasks, specifically in the domain of medical imaging.
 
 ## Features
 ### Diabetic retinopathy detection
