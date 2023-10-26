@@ -1,4 +1,4 @@
-# CABNet
+# HDA-Net
 
 ![diagnostics-13-01664-g010](https://github.com/TushirSahu/CABNet/assets/96677478/106bd7c6-ea87-4a67-8557-e2e6f513761b)
 
