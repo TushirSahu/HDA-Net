@@ -1,6 +1,9 @@
 # HDA-Net (Hierarchical Dual-Attention Network)
 
-![diagnostics-13-01664-g010](https://github.com/TushirSahu/CABNet/assets/96677478/106bd7c6-ea87-4a67-8557-e2e6f513761b)
+
+![image](https://github.com/TushirSahu/HDA-Net/assets/96677478/1553bb2d-aa67-4570-994e-4e25fc6f5814)
+
+
 
 ## Overview
 This repository contains the code for a novel architecture HDA-Net for detecting and classifying diabetic retinopathy using channel and spatial hierarchical attention modules. Diabetic retinopathy is a severe eye disease that affects individuals with diabetes, causing damage to the retina and potentially leading to vision loss. The attention modules help in highlighting important regions in retinal images, aiding in accurate detection and classification of diabetic retinopathy.
